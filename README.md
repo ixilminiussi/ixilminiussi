@@ -1,4 +1,8 @@
-Hi, I’m Ixil Miniussi
+### Franco-American Software Engineering Student
+***
+
+Hi, I’m Ixil Miniussi,
+
 I am currently mostly active on my university gitlab account, however, I decided to start migrating most of my
 projects onto github as a means to share and catallog my experience as a programmer so far.
 
