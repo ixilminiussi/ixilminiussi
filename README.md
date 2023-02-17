@@ -3,13 +3,6 @@
 
 Hi, I’m Ixil Miniussi,
 
-I am currently mostly active on my university gitlab account, however, I decided to start migrating most of my
-projects onto github as a means to share and catalog my experience as a programmer so far.
-
-I am honestly a jack of all trades, master of none, at this point. I'm using my university time to learn as much as
-possible in as many fields as possible (data management, software engineering, machine learning, discrete mathematics,
-programming language concepts, computational biology, embedded systems...). 
-
-My goal is to eventually apply and succeed for a PhD in either computational sciences or computer graphics.
+I am a graduate from the University of Southampton having obtained a Bachelor's degree in Software Engineering. I then applied and entered a PhD which I worked on for the last 6 months. Unfortunately, I recently learned that this path simply isn't for me and I'm now looking for opportunities to embolden my resume in ANYTHING BUT WEBDEV. I'm a jack of all trains although my PhD focused mostly on placement problems onto an FPGA architecture for massively parallel computations. I've also accomplished my first game jam recently and have been working on my own games since then.
 
 for all inquiries e-mail me at ixil@miniussi.net, or idm1u19@soton.ac.uk
